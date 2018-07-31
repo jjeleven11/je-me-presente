@@ -5,7 +5,7 @@
 <h2 id="a-toi-de-jouer">A toi de jouer</h2>
 
 <ul>
-<li>git clone https://github.com/nom_user/repo </li>
+<li>git clone https://github.com/jjeleven11/je-me-presente.git </li>
 <li>$ cd je-me-presente/
 <li>$ bundle install</li>
 <li>$ rake db:migrate</li>
