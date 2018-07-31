@@ -1,24 +1,21 @@
-# README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+<h1>L'appli Formulaire</h1>
 
-Things you may want to cover:
+</ul>
+<h2 id="a-toi-de-jouer">A toi de jouer</h2>
 
-* Ruby version
+<ul>
+<li>$ bundle install</li>
+<li>lance le serveur $ rails server</li>
+<li>et vérifie en allant sur localhost:3000, localhost:3000/contact, et localhost:3000/about </li>
+</ul>
 
-* System dependencies
 
-* Configuration
+<h2 id="réalisé-avec-amour-par-la-team-five">Réalisé avec amour par la team Five:</h2>
 
-* Database creation
+<a href="https://github.com/bbpucca">Valérie Chang</a><br>
+<a href="https://github.com/jjeleven11">Jérémie Edery</a><br>
+<a href="https://github.com/Careless-Whisper">Mai Lan Peng</a></p>
 
-* Database initialization
 
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+<p>Lien Heroku : https://hidden-brook-36463.herokuapp.com/
