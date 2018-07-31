@@ -11,7 +11,7 @@
 </ul>
 
 
-<h2 id="réalisé-avec-amour-par-la-team-five">Réalisé avec amour par la team Five:</h2>
+<h2 id="réalisé-avec-amour-par-la-team-five">Réalisé avec amour par la team :</h2>
 
 <a href="https://github.com/bbpucca">Valérie Chang</a><br>
 <a href="https://github.com/jjeleven11">Jérémie Edery</a><br>
