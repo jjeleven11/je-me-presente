@@ -5,7 +5,10 @@
 <h2 id="a-toi-de-jouer">A toi de jouer</h2>
 
 <ul>
+<li>git clone https://github.com/nom_user/repo </li>
+<li>$ cd je-me-presente/
 <li>$ bundle install</li>
+<li>$ rake db:migrate</li>
 <li>lance le serveur $ rails server</li>
 <li>et vérifie en allant sur localhost:3000, localhost:3000/contact, et localhost:3000/about </li>
 </ul>
